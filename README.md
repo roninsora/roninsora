@@ -9,7 +9,7 @@ A motivated CS graduate from BRAC university with a great passion for technology
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [sohanoorrahman@proton.me](mailto:sohanoorrahman@proton.me)
-* 🧠  I'm currently learning SpringBoot & Spring Data JPA.
+* 🧠  I'm currently learning Spring Security.
 
 
 <h3 align="left">Languages and Tools:</h3>
