@@ -1,11 +1,11 @@
 Hi 👋 My name is Sohan
 ================================
 
-An aspiring backend developer  
+Aspiring backend developer  
 
 -----------------
 
-A motivated CS graduate from BRAC university with a great passion for technology and software development. I'm Sohanoor Rahman but most people know me by Sohan. Prefers to work with OOP language with a preference to Java. Have a keen interest in Machine learning and Data Science. Did a thesis on image recognition using CNN. Currently, learning and researching NLP. Also a Competitive programmer on Codeforces and LeetCode. Although a noob, hopefully will get better overtime!
+A motivated CS graduate from BRAC university with a great passion for technology and software development. I'm Sohanoor Rahman but most people know me by Sohan. Prefer to work with OOP language with a preference to Java. Have a keen interest in Machine learning and Data Science. Did a thesis on image recognition using CNN. Currently, learning and researching NLP.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [sohanoorrahman@proton.me](mailto:sohanoorrahman@proton.me)
@@ -31,7 +31,7 @@ A motivated CS graduate from BRAC university with a great passion for technology
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/sohanoor-rahman" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </td>
-    <td><a href="https://www.twitter.com/nottSohan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></td>
+    <!-- <td><a href="https://www.twitter.com/nottSohan" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></td> -->
   </tr>
 </table>
 
@@ -39,5 +39,3 @@ A motivated CS graduate from BRAC university with a great passion for technology
 ### LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/roninsora?theme=dark&font=Chelsea%20Market)
 
-<!--### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notsohan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
